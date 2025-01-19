@@ -20,7 +20,7 @@ Your senior administrator has asked you to audit the strength of users' password
 
 <p align="center">
 Copying shadow password file: <br/>
-<img src="https://i.imgur.com/EOaP3cs.png" height="80%" width="80%" alt="Copying shadow lab"/>
+<img src="https://i.imgur.com/EOaP3cs.png" height="80%" width="80%" alt="Copying shadow file"/>
 <br />
 <br />
 <p align="center">
