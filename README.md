@@ -70,7 +70,6 @@ Confirming changes to sudoers file: <br/>
 <h2>Description</h2>
 
 Your senior systems administrator has asked you to audit these groups and remove both unauthorized users as well as suspicious groups.
-
 To complete these tasks, your senior administrator has asked that you do the following:
 Check every user's UID and GID.
 Make sure that only the sysadmin account is in the sudoers group.
